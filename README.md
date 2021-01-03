@@ -2,9 +2,9 @@
 
 ## Notes App 
 
-[Node.js](https://nodejs.org/) is required to run this project.
-
 ## How to run the project
+
+[Node.js](https://nodejs.org/) is required to run this project.
 
 First, install the packages
 
@@ -18,9 +18,7 @@ Then, run the following command to know the commands
 node app.js --help
 ```
 
-Example Commands
-
-For adding a new note,
+Example, for adding a new note
 
 ```bash
 node app.js add --title="NoteTitle" --body="NoteBody"
